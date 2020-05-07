@@ -1,7 +1,7 @@
 {
-  "name": "fibonacci",
+  "name": "testtask2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Number are given. Implement a function that return number of n-sequence, where n is argument function. If given argument not a number - \"Passed argument is not a number\". If you well in JS you can do this task with recursion.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -12,10 +12,18 @@
     "test": "npm run test:junit",
     "build": "echo \"Dummy build script\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/OlehKustov/testtask2.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "bugs": {
+    "url": "https://gitlab.com/OlehKustov/testtask2/issues"
+  },
+  "homepage": "https://gitlab.com/OlehKustov/testtask2#readme",
+  "devDependencies": {
     "chai": "^4.2.0",
     "cross-env": "^7.0.2",
     "mocha": "^7.1.2",
