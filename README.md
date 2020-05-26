@@ -1,6 +1,10 @@
 # Fibonacci numbers task
 
-### Number are given. Implement a function - fibonacciNumbers, that return number of n-sequence, where n is argument function. If given argument not a number return - "Passed argument is not a number". If you well in JS you can do this task with recursion.
+### Number are given. Implement a function - fibonacciNumbers, that return number of n-sequence, where n is argument function.
+* 1) Given argument not a number -  return "Passed argument is not a number".
+* 2) Return number of n-sequence, where n is argument function
+
+If you well in JS you can do this task with recursion.
 
 #### For example:
 ```js
