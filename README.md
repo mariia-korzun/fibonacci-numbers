@@ -50,7 +50,7 @@ Run “npm test” again. The result should look like this:
 
 # Fibonacci numbers task
 
-### Number are given. Implement a function - fibonacciNumbers, that return number of n-sequence, where n is argument function.
+### Number is given. Implement a function - fibonacciNumbers, that return number of n-sequence, where n is argument function.
 * 1) Given argument not a number -  return "Passed argument is not a number".
 * 2) Return number of n-sequence, where n is argument function
 
