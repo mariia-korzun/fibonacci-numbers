@@ -50,11 +50,7 @@ Run “npm test” again. The result should look like this:
 
 # Fibonacci numbers task
 
-### Number is given. Implement a function - fibonacciNumbers, that return number of n-sequence, where n is argument function.
-* 1) Given argument not a number -  return "Passed argument is not a number".
-* 2) Return number of n-sequence, where n is argument function
-
-If you well in JS you can do this task with recursion.
+### A number is given. Create a function called “fibonacciNumbers” that returns a number of n-sequence, where n is a function argument. If a given argument is not a number, return "Passed argument is not a number". Advanced level: use recursion.
 
 #### For example:
 ```js
